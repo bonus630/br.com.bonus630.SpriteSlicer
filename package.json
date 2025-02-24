@@ -1,0 +1,9 @@
+{
+    "name": "br.com.bonus630.sprite-slicer",
+    "displayName": "Sprite Slicer (bonus630)",
+    "version": "1.0.0",
+    "unity": "6000.0.36f1",
+    "description": "A tool to cut sprites sheets",
+    "dependencies": {}
+  }
+  
