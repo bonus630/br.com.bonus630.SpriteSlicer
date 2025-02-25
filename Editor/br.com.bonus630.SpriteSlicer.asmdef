@@ -1,0 +1,17 @@
+{
+    "name": "br.com.bonus630.SpriteSlicer",
+    "references": [
+        "GUID:93d00cf1-4fbf-42fb-94ef-acc27f93278d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
